@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    alert("Welcome to Superhero Gif Search!");
 
     var displayedButtons = ["Iron Man", "Wolverine", "Batman"];
 
