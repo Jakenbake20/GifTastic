@@ -1,0 +1,38 @@
+button, div, form, input {
+	margin: 10px;
+}
+
+
+body{
+    background-color: black;
+}
+div.jumbotron {
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    background-color: black;
+    color: darkred;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body{
+    background-color: black;
+}
+
+img {
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.holder {
+    float: left;
+}
+
