@@ -1,13 +1,18 @@
 button, div, form, input {
-	margin: 10px;
+    margin: 10px;
+    font-family: 'Permanent Marker', cursive;
 }
 
+#display-images {
+    border: solid thick black;
+    background-color: darkgrey;
+}
 
-body{
-    background-color: black;
+body {
+    background-image: url("images/background.jpg");
 }
 div.jumbotron {
-    font-size: 5rem;
+    font-size: 6rem;
     text-align: center;
     font-family: 'Permanent Marker', cursive;
     background-color: black;
@@ -23,9 +28,7 @@ label {
     font-size: medium;
 }
 
-body{
-    background-color: black;
-}
+
 
 img {
     max-height: 200px;
@@ -34,5 +37,9 @@ img {
 
 .holder {
     float: left;
+}
+
+label {
+    font-size: 20px;
 }
 
